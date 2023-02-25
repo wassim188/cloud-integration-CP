@@ -1,0 +1,11 @@
+@import url("leaflet/dist/leaflet.css");
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5%;
+}
+.leaflet-container {
+  width: 50%;
+  height: 80vh;
+}
